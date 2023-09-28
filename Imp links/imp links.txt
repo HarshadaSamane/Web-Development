@@ -1,0 +1,19 @@
+notes: file:///C:/Users/Harshada/Downloads/AppBreweryCornellNotesTemplate.pdf
+
+heading elements
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+
+diff checker
+https://www.diffchecker.com/
+
+ordered list
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol
+
+list elements
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li
+
+named color
+https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
+
+RGB mixer
+https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
